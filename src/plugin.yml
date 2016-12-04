@@ -1,0 +1,8 @@
+name: SlimeChem
+version: 1.0
+author: mrCookieSlime
+website: https://dl.dropboxusercontent.com/s/muvbcoc1ckot9eh/downloads.html
+
+main: me.mrCookieSlime.SlimeChem.main
+
+depend: [CS-CoreLib, Slimefun]
